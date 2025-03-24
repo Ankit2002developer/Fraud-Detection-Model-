@@ -16,3 +16,22 @@ Install these dependencies using pip by running the following command in your te
 
 ```bash
 pip install pandas numpy scikit-learn matplotlib seaborn
+```
+Next, clone the repository to your local machine with this command:
+```bash
+git clone https://github.com/Ankit2002developer/fraud-detection-model.git
+```
+
+## Features
+- Data Cleaning and Preprocessing: Handles missing values and outliers effectively.
+- Feature Engineering: Enhances model performance through thoughtful feature creation.
+- Random Forest Classifier: Employs a robust algorithm for accurate fraud detection.
+- Comprehensive Evaluation: Provides metrics like precision, recall, F1-score, and ROC-AUC.
+- Visualizations: Includes plots for feature importance and model performance analysis.
+
+## Contributing
+We welcome contributions to improve this project! To contribute:
+
+- Fork the repository.
+- Make your enhancements or bug fixes.
+- Submit a pull request with your changes.
